@@ -57,4 +57,4 @@ This repository is created to:
 
 **Submitted by:** Rayyan Ibrahim  
 **Course:** B.Tech – 2nd Year  
-**Subject:** Artificial Intelligence and Machine Learning
+**Subject:** Fundamentals Of Artificial Intelligence and Machine Learning 
